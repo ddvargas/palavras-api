@@ -1,6 +1,20 @@
-{
-  "palavra": "Amêndoa",
-  "classe_gramatical": "adjetivo",
-  "definicao": "Algo estranho, excêntrico",
-  "exemplo": "Ele fez um comentário completamente exdrúxulo."
-}
+[
+  {
+    "palavra": "Exdrúxulo",
+    "classe_gramatical": "adjetivo",
+    "definicao": "Algo estranho, excêntrico",
+    "exemplo": "Ele fez um comentário completamente exdrúxulo."
+  },
+  {
+    "palavra": "Inócuo",
+    "classe_gramatical": "adjetivo",
+    "definicao": "Que não produz efeito",
+    "exemplo": "O remédio foi completamente inócuo."
+  },
+  {
+    "palavra": "Perfunctório",
+    "classe_gramatical": "adjetivo",
+    "definicao": "Feito de maneira superficial",
+    "exemplo": "Ele deu uma resposta perfunctória."
+  }
+]
